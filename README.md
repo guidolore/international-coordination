@@ -1,5 +1,5 @@
 # international-coordination
-Codes for "Global Price Shocks and International Monetary Coordination"
+Codes for "Global Price Shocks and International Monetary Coordination" by Guerrieri, Lorenzoni, Werning (2025)
 
 equil-nash-coord solves the baseline model with tradable and non tradable goods
 
